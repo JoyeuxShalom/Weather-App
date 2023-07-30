@@ -66,7 +66,7 @@ body {
 }
 
 .search > * {
-  background-color: var(--dark-blue);
+  background-color: var(--dark-orange);
   height: 40px;
   border: none;
   font-size: 18px;
@@ -95,7 +95,7 @@ body {
   width: 52px;
   line-height: 1;
   border-radius: 0 20px 20px 0;
-  border: 2px solid var(--dark-blue);
+  border: 2px solid var(--dark-orange);
   border-left: none !important;
 }
 
@@ -108,14 +108,14 @@ body {
   font-family: 'Nunito', sans-serif;
   font-weight: 700;
   margin-left: 8px;
-  background-color: var(--dark-blue);
+  background-color: var(--dark-orange);
   transition: all 0.3s;
   cursor: pointer;
   font-size: 14px;
   padding: 4px 16px;
   height: 40px;
   border-radius: 20px;
-  border: 2px solid var(--dark-blue);
+  border: 2px solid var(--dark-orange);
   color: var(--white);
 }
 
@@ -243,7 +243,7 @@ body {
   background-color: var(--warning-yellow);
 }
 .uvi-orange {
-  background-color: var(--warning-orange);
+  background-color: var(--warning-blue);
 }
 .uvi-red {
   background-color: var(--warning-red);
